@@ -14,7 +14,7 @@ section{
 
 .hero{
      
-    background-color: #000000;
+    background-color: black;
     color: white;
     font-size: 20px;
     height: 100vh;
@@ -25,7 +25,7 @@ section{
 
 footer{
     color: white;
-    background-color:black;
+    background-color: black;
     text-align: center;
     padding: 80px;
 }
@@ -36,13 +36,14 @@ nav {
     justify-content: space-between;
    
    
+   
 }
 
 ul{
     display: flex;
     list-style-type: none;
     width: 500px;
-    justify-content: space-around;
+    justify-content: space-around ;
     font-size: 20px;
     margin: 20px;  
    
@@ -186,6 +187,7 @@ p {
 
 .project-image{
     width: 200px;
+    
     border-radius:10px;
     margin-top: 25px;
     margin-left: 40px;
